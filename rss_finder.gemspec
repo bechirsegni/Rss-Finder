@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Find The Rss Feed Link from any website}
   spec.description   = %q{Find The Rss Feed Link from any website simply by providing the url}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/bechirsegni/Rss-Finder"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
